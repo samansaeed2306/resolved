@@ -1,0 +1,31 @@
+# Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ogs/
+[Uu]serData/
+[Ii]mportSettings.ini
+UnityGenerated/
+[Ll]ibrary/
+
+# Mono generated files
+[Ee]xportedObj/
+[Oo]bj/
+[Bb]uild/
+[Bb]in/
+[Ll]ibrary/
+
+# Visual Studio / Rider / MonoDevelop generated files
+.vscode/
+.idea/
+.vs/
+[Bb]uild/
+[Bb]in/
+[Ll]ibrary/
+[Pp]rojPrefs
+
+# OS generated files
+[Dd][Ss]_[Ss]tore/
+[Dd]._[Dd]s_Store
+[Tt]humbs.db
